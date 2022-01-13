@@ -1,6 +1,6 @@
 # [QuizzIt](https://quizz-it.netlify.app)
 
-A knowledge oriented, data driven, competitive quiz taking website where users test their comprehension on specific topics by taking user-generated quizzes, and receive awards and points for their performance.
+A knowledge oriented, data driven, competitive quiz taking website where users test their comprehension on specific topics by taking user-generated quizzes, and receive awards and points for their performance. Developed by Dipen Rupani, James Marcos, Ronnie Chen, and Singwa Chan at Stony Brook University.
 
 ## Key Features
 
